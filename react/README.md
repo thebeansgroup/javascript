@@ -111,7 +111,7 @@
       superLongParam="bar"
       anotherSuperLongParam="baz"
     >
-      <Spazz />
+      <Pazz />
     </Foo>
     ```
 
